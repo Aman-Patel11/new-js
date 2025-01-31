@@ -1,0 +1,7 @@
+ let accountId = "12345";
+ const emailId = "amanpatel@2580.com";
+ console.log(accountId);
+  var fullName = "Aman Patel";
+  var fullName = "Aakash Mishra";// redecalered the value
+  console.log(fullName);
+  
